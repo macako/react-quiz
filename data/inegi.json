@@ -1,8 +1,8 @@
 {
-  "id": 1,
-  "name": "Asp.Net Quiz",
+  "id": 10,
+  "name": "INEGI Quiz",
   "description": "Asp.Net Quiz (contains webform, mvc, web API, etc.)",
-  "answers": [
+  "questions": [
     {
       "id": 1010,
       "name": "ASP.NET webform separates the HTML output from program logic using a feature named as",
